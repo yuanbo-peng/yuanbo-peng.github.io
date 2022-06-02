@@ -29,10 +29,6 @@ Features of OneScanner:
 2. Select the screen area (OCR from Screenshot) or image file (OCR from Image File).
 3. The recognized text will be displayed in the popover window.
 
-### App Privacy
-
-OneScanner does not collect any personal data from users.
-
 ### Support
 
 If you have any questions and thoughts, email me at <bobpeng.bham.uk@gmail.com>.
@@ -53,3 +49,11 @@ What languages does OneScanner support?
 > - Italian
 > - Portuguese
 > - Spanish
+
+### Privacy Policy for OneScanner
+
+OneScanner does not collect any personal data from users. A few points may need some explanation though:
+
+#### Screen Recording Permission
+
+OneScanner asks you to give the Screen Recording Permission. OneScanner uses this permission to take screenshot whenever capture text operation is triggered by the user. OneScanner does not store any screenshots, text locally or send them to outside servers.
