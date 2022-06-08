@@ -37,7 +37,7 @@ If you have any questions and thoughts, email me at <bobpeng.bham.uk@gmail.com>.
 
 What is the minimum version of macOS supported by OneScanner?
 
-> macOS 10.15+
+> macOS 11.0+
 
 What languages does OneScanner support?
 

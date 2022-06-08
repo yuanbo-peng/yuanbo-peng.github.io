@@ -3,4 +3,4 @@ layout: page
 type: about
 ---
 
-Building...
+Email me at: <bobpeng.bham.uk@gmail.com>.
