@@ -52,8 +52,4 @@ What languages does OneScanner support?
 
 ### Privacy Policy for OneScanner
 
-OneScanner does not collect any personal data from users. A few points may need some explanation though:
-
-#### Screen Recording Permission
-
-OneScanner asks you to give the Screen Recording Permission. OneScanner uses this permission to take screenshot whenever capture text operation is triggered by the user. OneScanner does not store any screenshots, text locally or send them to outside servers.
+OneScanner asks you to give the Screen Recording Permission. OneScanner uses this permission to take a screenshot of user-selected area and then extract the text from the screenshot whenever the feature of 'OCR from Screenshot' is triggered by the user. OneScanner processes all data and operations locally, and does not share data from users to any thired parties.
